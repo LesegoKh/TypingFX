@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&family=SUSE:wght@100..800&display=swap');
+
+body {
+    height: 100vh;
+    font-family:'Permanent-Marker', cursive;
+    font-weight: 100;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:salmon;
+}
